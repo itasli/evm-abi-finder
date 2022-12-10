@@ -2,6 +2,7 @@ Guess ABI of any EVM contract, even if it is not verified. Works by analyzing th
 extracting selectors from PUSH4/JUMPI instructions and comparing them to known ABI signatures.
 
 Forked from <a href="https://github.com/w1nt3r-eth/abi.w1nt3r.xyz">@w1nt3r-eth/abi.w1nt3r.xyz</a>
+
 Powered by <a href="https://github.com/shazow/whatsabi">@shazow/whatsabi</a> and <a href="https://www.4byte.directory/">4byte.directory</a>
 
 ## Getting Started
